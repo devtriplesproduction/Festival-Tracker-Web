@@ -30328,7 +30328,7 @@ a1=A.cH(a8,c,"")
 if(a3&&a9.length!==0)n=a9
 else n=null
 a3=""+("Hello "+a5+"! \ud83d\udc4b\n")+"\n"+(u.f+a7+"* from *Triple S Production* \ud83c\udfa8\u2728\n")+"\n"
-if(n!=null&&n.length!==0)a3=a3+"\ud83d\uddbc\ufe0f *Attached Design:*\n"+("https://your-app-domain.com/#/poster?url="+A.kI(B.dl,n,B.P,!0)+"\n")+"\n"
+if(n!=null&&n.length!==0)a3=a3+"\ud83d\uddbc\ufe0f *Attached Design:*\n"+("https://YOUR_ACTUAL_DOMAIN.com/#/poster?url="+A.kI(B.dl,n,B.P,!0)+"\n")+"\n"
 a3=(a6!=null&&B.c.bx(a6).length!==0?a3+("\ud83d\udcdd *Note:* "+J.a3h(a6)+"\n")+"\n":a3)+"Wishing you and your team a wonderful celebration! \ud83c\udf89\n\u2014 *Triple S Production*"
 a2=A.ed("https://wa.me/"+a1+"?text="+A.kI(B.qh,a3.charCodeAt(0)==0?a3:a3,B.P,!1),0,null)
 s=15
